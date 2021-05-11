@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rifqi Alfinnur Charisma</h1>
 <h3 align="center">Hello, my name is rifqi, I am a student majoring in software engineering at a university in Indonesia. Many say that I have no basic in the IT field, but I will prove that I am able to contribute in the technology sector, especially as an android developer. I passed several coding classes and skill academy by ruangguru, including python class, machine learning, cognitive applications, microsoft azure engineer, and many more according to the license I listed below. But I am focused on developing android applications. I really like cooperation, because for me a developer can never work alone. I really like challenging environments because it can hone my mind and mentality. But in certain situations I want to feel a calm and peaceful atmosphere, not too noisy, usually when I am looking for ideas to solve programming problems. I am very friendly to everyone and easy to get along with, but sometimes I become a quiet person when there is a problem with me. But that problem will not bother me to work, because as a worker I am required to remain professional. Little can I say I hope you are interested in working with me. Warm greetings, Rifqi.</h3>
 
-- 👨‍💻 All of my projects are available at [www.barker-corp.my.id](www.barker-corp.my.id)
+- 👨‍💻 All of my projects are available at [https://github.com/rifqicharisma?tab=repositories](https://github.com/rifqicharisma?tab=repositories)
+
+- 📝 I regularly write articles on [www.barker-corp.my.id](www.barker-corp.my.id)
 
 - 💬 Ask me about **android, java, kotlin and others related to android**
 
