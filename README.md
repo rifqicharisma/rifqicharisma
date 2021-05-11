@@ -12,8 +12,8 @@
 | Name | Rifqi Alfinnur Charisma |
 | Residence | Ponorogo |
 | Email | rifqicharisma@gmail.com or rifqi@barker-corp.my.id |
-| License / Certification | [My Certification](https://drive.google.com/drive/folders/1cYYDePAB6hVDalUlFqp06aljgRgI_PXr?usp=sharing) |
-| Copyright | 1. [Membuat Framework Mini Seperti Laravel](www.google.com)|
+| License / Certification | [My Certification](https://github.com/rifqicharisma/Certification.git) |
+| Copyright | 1. [Membuat Framework Mini Seperti Laravel](https://drive.google.com/file/d/1EyotfsrQCDbC7JTi6adLQ-5HDwzpTP-A/view?usp=sharing)|
 
 - 👨‍💻 All of my projects are available at [Rifqi Repostories on Github](https://github.com/rifqicharisma?tab=repositories)
 
