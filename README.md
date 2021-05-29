@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **android, java, kotlin and others related to android**
 
-- 📫 How to reach me **rifqicharisma@gmail.com**
+- 📫 How to reach me **rifqicharisma@gmail.com** or **rifqi@barker-corp.my.id**
 
 - ⚡ Fun fact **I like playing music instrument**
 
@@ -35,7 +35,7 @@
 | Name | Desc |
 | ---- | ---- |
 | MebelLy | MebelLy adalah sebuah aplikasi jual beli furninur secara online. Anda dapat memesan bahkan mengcustom furnitur sesuka hati anda. Website dapat diakses di [www.mebelly.my.id](https://www.mebelly.my.id/)|
-| Buku Membuat Framework Mini Seperti Laravel | Bersama Teguh Rijanandi dan tim, kami berhasil menerbitkan buku tersebut. Buku ini membahas tentang dasar-dasar framework dan bagaimana cara membuat framework mini dengan mudah. Hak Cipta buku dapat dilihat [di sini](https://drive.google.com/file/d/1EyotfsrQCDbC7JTi6adLQ-5HDwzpTP-A/view?usp=sharing) |
+| Buku Membuat Framework Mini Seperti Laravel | Bersama Teguh Rijanandi dan tim, kami berhasil menerbitkan buku tersebut. Buku ini membahas tentang dasar-dasar framework dan bagaimana cara membuat framework mini dengan mudah. Hak Cipta buku dapat dilihat [di sini.](https://drive.google.com/file/d/1EyotfsrQCDbC7JTi6adLQ-5HDwzpTP-A/view?usp=sharing) Ingin membeli buku? Beli [di sini.](https://sociabuzz.com/rifqicharisma/p/buku-membuat-mini-framework-php-seperti-laravel)|
 
 <hr></hr>
 
