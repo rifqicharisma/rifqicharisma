@@ -16,6 +16,7 @@
 | Email | rifqicharisma@gmail.com or rifqi@barker-corp.my.id |
 | License / Certification | [My Certification](https://github.com/rifqicharisma/Certification.git) |
 | Copyright | 1. [Membuat Framework Mini Seperti Laravel](https://drive.google.com/file/d/1EyotfsrQCDbC7JTi6adLQ-5HDwzpTP-A/view?usp=sharing)|
+| | 2. [Sistem Autentikasi Upload Gambar Laravel (Steganografi)](https://github.com/rifqicharisma/Certification/blob/main/Sudan%20Diinput%20TAK/Hak%20Cipta/sertifikat_EC00202129338.pdf)
 
 - 🌱 I’m currently learning **Machine Learning and Full Stack Android Developer**
 
@@ -36,6 +37,7 @@
 | ---- | ---- |
 | MebelLy | MebelLy adalah sebuah aplikasi jual beli furninur secara online. Anda dapat memesan bahkan mengcustom furnitur sesuka hati anda. Website dapat diakses di [www.mebelly.my.id](https://www.mebelly.my.id/)|
 | Buku Membuat Framework Mini Seperti Laravel | Bersama Teguh Rijanandi dan tim, kami berhasil menerbitkan buku tersebut. Buku ini membahas tentang dasar-dasar framework dan bagaimana cara membuat framework mini dengan mudah. Hak Cipta buku dapat dilihat [di sini.](https://drive.google.com/file/d/1EyotfsrQCDbC7JTi6adLQ-5HDwzpTP-A/view?usp=sharing) Ingin membeli buku? Beli [di sini.](https://sociabuzz.com/rifqicharisma/p/buku-membuat-mini-framework-php-seperti-laravel)|
+| Sistem Autentikasi Upload Gambar Laravel (Steganografi) | Laravel sendiri mempunyai banyak sistem autentikasi mulai dari manual autentikasi menggunakan email dan password, sistem autentikasi SSO (Single Sign On) atau login menggunakan google, facebook, twitter, github dan sebagainya, autentikasi kustom atau buatan kita sendiri dan sebagainya. Pada buku ini akan dibahas sistem autentikasi menggunakan metode upload gambar saja, jadi user tidak perlu memasukan email dan password dalam sistem. Pada gambar tersebut disimpan kridensial user yang bisa dikenali oleh sistem, istilah menyimpan data dalam gambar ini disebut steganografi. Ingin membeli buku? Bisa di beli [di sini](https://www.sociabuzz.com/rifqicharisma/p/sistem-autentikasi-upload-gambar-laravel) |
 
 <hr></hr>
 
