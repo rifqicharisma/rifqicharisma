@@ -57,8 +57,8 @@
 <hr></hr>
 
 ## Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifqicharisma&show_icons=true&locale=en&layout=compact" alt="rifqicharisma" /></p>
+![rifqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifqicharisma&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifqicharisma&show_icons=true&locale=en" alt="rifqicharisma" /></p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rifqicharisma&show_icons=true&locale=en&layout=compact&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifqicharisma&" alt="rifqicharisma" /></p>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rifqicharisma&theme=radical)
